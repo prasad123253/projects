@@ -1,1 +1,44 @@
+#  EDA Summary Report
 
+## Data Exploration
+
+* Explored the dataset structure
+* Checked data types
+* Verified missing values
+* Removed duplicate records
+
+## Statistical Analysis
+
+* Mean
+* Median
+* Mode
+* Variance
+* Standard Deviation
+
+## Correlation Analysis
+
+* Calculated the correlation matrix
+* Identified highly correlated features
+* Analyzed positive and negative correlations
+
+## Outlier Detection
+
+* Detected outliers using box plots
+* Identified extreme values in numerical features
+
+## Data Analysis
+
+* Performed filtering and sorting
+* Analyzed relationships between wine features and quality
+* Created visualizations for better insights
+
+## Key Findings
+
+* Alcohol content has a positive correlation with wine quality.
+* Volatile acidity has a negative correlation with wine quality.
+* Several numerical features contain outliers.
+* Most wine samples fall within average quality ratings.
+
+## Conclusion
+
+EDA helped understand the factors affecting wine quality by analyzing feature relationships, detecting outliers, and visualizing data patterns. These insights can be used for better data preprocessing and future machine learning models.
