@@ -1,1 +1,31 @@
+# EDA Summary Report
 
+## Data Cleaning
+
+* Checked missing values
+* Removed duplicates
+* Treated outliers
+
+## Statistical Analysis
+
+* Mean
+* Median
+* Mode
+* Variance
+* Standard Deviation
+
+## Analysis
+
+* Student performance analysis
+* Correlation between variables
+
+## Key Findings
+
+* Student scores vary based on different factors.
+* Some features show a positive correlation with exam scores.
+* Outliers were identified and handled.
+* Cleaned data improved the quality of analysis.
+
+## Conclusion
+
+EDA helped understand student performance patterns and identify factors affecting exam scores.
