@@ -1,1 +1,134 @@
 
+#  Diamond Price Analysis – EDA Report
+
+##  Dataset Overview
+
+The Diamonds Dataset contains information about various diamond characteristics such as carat, cut, color, clarity, depth, table, dimensions, and price. The objective of this EDA is to understand how different features influence diamond prices and identify meaningful business insights.
+
+---
+
+## 1. Data Exploration
+
+- Loaded the dataset using Pandas.
+- Displayed the first and last five records.
+- Checked the dataset shape (rows and columns).
+- Examined column names and data types.
+- Verified missing values.
+- Identified duplicate records.
+
+---
+
+## 2. Data Cleaning
+
+- Handled missing values.
+- Removed duplicate records.
+- Corrected data types where necessary.
+- Prepared the dataset for analysis.
+
+---
+
+## 3. Outlier Detection
+
+Outliers were detected using box plots for numerical features such as:
+
+- Carat
+- Price
+- Depth
+- Table
+- X Dimension
+- Y Dimension
+- Z Dimension
+
+Extreme values were analyzed and treated to improve data quality.
+
+---
+
+## 4. Statistical Analysis
+
+Calculated the following statistical measures:
+
+- Mean
+- Median
+- Mode
+- Minimum
+- Maximum
+- Standard Deviation
+- Variance
+- Quartiles
+
+These measures helped understand the distribution and variability of the data.
+
+---
+
+## 5. Categorical and Numerical Analysis
+
+### Categorical Features
+
+Analyzed the distribution of:
+
+- Cut
+- Color
+- Clarity
+
+### Numerical Features
+
+Analyzed:
+
+- Carat
+- Price
+- Depth
+- Table
+- X
+- Y
+- Z
+
+This helped identify trends and patterns affecting diamond prices.
+
+---
+
+## 6. Correlation Analysis
+
+- Generated the correlation matrix.
+- Created a heatmap to visualize feature relationships.
+- Identified features with strong positive and negative correlations.
+
+---
+
+## 7. Data Visualization
+
+Created the following visualizations:
+
+- Histogram
+- Box Plot
+- Scatter Plot
+- Bar Chart
+- Correlation Heatmap
+
+These visualizations highlighted price distribution, feature relationships, and outliers.
+
+---
+
+## 8. Key Observations
+
+- Diamond price increases significantly with carat weight.
+- Higher-quality cut grades generally have higher prices.
+- Clarity and color also influence the price of diamonds.
+- Some numerical features contain outliers.
+- Strong positive correlation exists between carat and price.
+- Diamond dimensions (X, Y, Z) are positively related to carat weight.
+
+---
+
+## 9. Business Insights
+
+- Carat is the most influential factor affecting diamond price.
+- Premium and Ideal cut diamonds generally command higher prices.
+- Better clarity and color grades increase the market value of diamonds.
+- Removing outliers improves the reliability of analysis and predictive models.
+- Understanding feature relationships helps businesses optimize pricing strategies and inventory management.
+
+---
+
+## 10. Conclusion
+
+Exploratory Data Analysis provided valuable insights into the Diamonds Dataset by examining data quality, detecting outliers, analyzing feature relationships, and visualizing key trends. The analysis shows that carat, cut, clarity, and color are the primary factors influencing diamond prices. These findings can support better pricing decisions and serve as a foundation for future machine learning models.
