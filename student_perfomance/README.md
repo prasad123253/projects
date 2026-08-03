@@ -57,4 +57,4 @@ Analyze student performance data using Python and Exploratory Data Analysis (EDA
 
 ## Author
 
-**Harika**
+**Prasad**
