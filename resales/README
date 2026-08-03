@@ -1,1 +1,61 @@
 
+#  Retail Sales Analysis Dashboard
+
+##  Objective
+
+Analyze the Superstore Sales Dataset using Python and Exploratory Data Analysis (EDA) to identify sales trends, evaluate business performance, and generate actionable business insights.
+
+##  Dataset
+
+**Superstore Sales Dataset**
+
+##  Tools Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+
+##  Project Workflow
+
+* Data Import
+* Data Cleaning
+* Filtering and Sorting
+* Statistical Analysis
+* Sales and Profit Analysis
+* Region-wise Analysis
+* Category-wise Analysis
+* Data Visualization
+* Executive Summary & Recommendations
+
+##  Concepts Covered
+
+* Pandas
+* NumPy
+* Statistics
+* GroupBy
+* Data Visualization
+* Exploratory Data Analysis (EDA)
+
+##  Files Included
+
+* Jupyter Notebook (.ipynb)
+* Dataset (.csv)
+* README.md
+* EDA Report
+* Screenshots
+
+##  Key Highlights
+
+* Imported and cleaned the retail sales dataset.
+* Performed filtering and sorting to analyze business performance.
+* Calculated sales and profit statistics.
+* Analyzed region-wise and category-wise sales performance.
+* Used GroupBy operations for data aggregation.
+* Created bar charts, line charts, histograms, and scatter plots.
+* Generated business insights and recommendations based on the analysis.
+
+##  Author
+
+**prasad**
