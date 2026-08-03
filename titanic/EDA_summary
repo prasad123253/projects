@@ -1,36 +1,32 @@
-#  Titanic Passenger Analysis
+# EDA Summary Report
 
-##  Objective
+## Data Cleaning
 
-Analyze the Titanic dataset using Python and EDA techniques to understand passenger survival patterns.
+* Checked missing values
+* Removed duplicate records
+* Treated outliers
 
-##  Dataset
+## Statistical Analysis
 
-**Titanic Dataset**
+* Mean
+* Median
+* Mode
+* Variance
+* Standard Deviation
 
-##  Tools Used
+## Analysis
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
+* Survival analysis
+* Age, gender, and passenger class analysis
+* Grouped data using `groupby()`
 
-##  Project Workflow
+## Key Findings
 
-* Data Cleaning
-* Filtering & Sorting
-* Grouping
-* Statistical Analysis
-* Data Visualization
-* Survival Analysis
+* Survival rates varied by passenger class.
+* Female passengers had higher survival rates than males.
+* Younger passengers showed different survival patterns.
+* Outliers were identified and handled.
 
-##  Files Included
+## Conclusion
 
-* Jupyter Notebook
-* Dataset
-* EDA Report
-* Screenshots
-
-##  Author
-
-**prasad**
+EDA helped identify key factors influencing passenger survival and provided meaningful insights through data analysis and visualization.
