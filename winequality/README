@@ -1,1 +1,50 @@
+#  Wine Quality Exploratory Data Analysis
 
+##  Objective
+
+Analyze the Wine Quality Dataset using Python and Exploratory Data Analysis (EDA) techniques to identify the factors that influence wine quality.
+
+##  Dataset
+
+**Wine Quality Dataset**
+
+##  Tools Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+
+## 📊 Project Workflow
+
+* Data Loading
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Descriptive Statistics
+* Correlation Analysis
+* Outlier Detection
+* Filtering & Sorting
+* Data Visualization
+* Observations & Conclusion
+
+##  Concepts Covered
+
+* Statistics
+* Correlation Matrix
+* NumPy
+* Pandas
+* Data Visualization
+* Outlier Detection
+
+##  Files Included
+
+* Jupyter Notebook
+* Dataset
+* README.md
+* EDA Report
+* Screenshots
+
+##  Author
+
+**Prasad**
