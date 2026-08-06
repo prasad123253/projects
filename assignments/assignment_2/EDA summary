@@ -1,1 +1,37 @@
+# EDA Summary Report
+
+## Data Cleaning
+
+* Checked missing values
+* Filled missing values in appropriate columns
+* Removed duplicate records
+* Detected and treated outliers using the IQR method
+* Encoded categorical variables for machine learning
+
+## Statistical Analysis
+
+* Mean
+* Median
+* Mode
+* Variance
+* Standard Deviation
+
+## Analysis
+
+* Passenger survival analysis
+* Distribution of numerical features
+* Correlation between passenger attributes
+* Relationship between different features and survival status
+
+## Key Findings
+
+* Missing values were successfully handled, improving data quality.
+* Outliers were identified and treated using the IQR method.
+* Some passenger features showed a stronger relationship with survival than others.
+* Data preprocessing and feature encoding prepared the dataset for machine learning.
+* Logistic Regression and Decision Tree models were trained and compared to identify the better-performing model.
+
+## Conclusion
+
+EDA helped understand the Titanic dataset, identify important passenger characteristics, and prepare the data for predictive modeling. The cleaned and processed dataset improved the performance of the machine learning models and enabled accurate prediction of passenger survival.
 
